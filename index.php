@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="./css/style.css">
 
     <?php
-      $name = "Acme";
+      $name = "Php";
       date_default_timezone_set('Africa/Johannesburg');
     ?>
   </head>
