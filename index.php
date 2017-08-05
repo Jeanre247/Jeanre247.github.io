@@ -9,16 +9,12 @@
     <title>Acme Web Deisgn | Welcome</title>
     <link rel="stylesheet" href="./css/style.css">
 
-    <?php
-      $name = "Php";
-      date_default_timezone_set('Africa/Johannesburg');
-    ?>
   </head>
   <body>
     <header>
       <div class="container">
         <div id="branding">
-          <h1><span class="highlight"><?php echo $name;?></span> Web Design</h1>
+          <h1><span class="highlight">Acme</span> Web Design</h1>
         </div>
         <nav>
           <ul>
@@ -68,7 +64,7 @@
     </section>
 
     <footer>
-      <p>Acme Web Deisgn, Copyright &copy; <?php echo date('Y');?></p>
+      <p>Acme Web Deisgn, Copyright &copy; 2017?></p>
     </footer>
   </body>
 </html>
